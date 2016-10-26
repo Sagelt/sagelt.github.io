@@ -4,8 +4,8 @@ title: "Mythos But Not"
 date: 2014-03-27
 categories:
   - Games
-image: /images/JupiterSemeleMoreau.jpg
-image-sm: /images/JupiterSemeleMoreau.jpg
+image: /images/Jupiter.png
+image-sm: /images/Jupiter.png
 ---
 Apparently I'm not done with _True Detective_ after [last time](2014/03/25/the-flat-circle/). The thing that lodged in my head: if _True Detective_ is a vein of the Cthulhu mythos, what else might be? How many things have branched off of Lovecraft's work in the nearly hundred years since?
 
