@@ -4,8 +4,8 @@ title: "Fiction & Story"
 date: 2014-07-10
 categories:
   - Games
-image: /images/fiction.png
-image-sm: /images/fiction.png
+image: /images/fiction.jpg
+image-sm: /images/fiction.jpg
 ---
 There's this discussion I keep seeing round Dungeon World. It boils down to this: is Dungeon World about telling a story?
 
