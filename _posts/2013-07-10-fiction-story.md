@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fiction & Story"
-date: 2014-07-10
+date: 2013-07-10
 categories:
   - Games
 image: /images/fiction.jpg
