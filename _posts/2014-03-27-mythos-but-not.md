@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "D&D 5th Edition"
-date: 2014-07-09
+title: "Mythos But Not"
+date: 2014-03-27
 categories:
   - Games
-image: /images/beethovens_fifth.jpg
-image-sm: /images/beethovens_fifth.jpg
+image: /images/JupiterSemeleMoreau.jpg
+image-sm: /images/JupiterSemeleMoreau.jpg
 ---
 Apparently I'm not done with _True Detective_ after [last time](2014/03/25/the-flat-circle/). The thing that lodged in my head: if _True Detective_ is a vein of the Cthulhu mythos, what else might be? How many things have branched off of Lovecraft's work in the nearly hundred years since?
 
