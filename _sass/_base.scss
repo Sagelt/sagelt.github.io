@@ -110,6 +110,12 @@ ol {
   list-style-type: upper-roman;
 }
 
+.profile {
+  ol {
+    list-style-type: none;
+  }
+}
+
 /**
  * Text Selection
  */
