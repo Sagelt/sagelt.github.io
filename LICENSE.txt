@@ -1,3 +1,7 @@
+License for all content within _posts/
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+License for Trophy Jekyll Theme
 MIT License
 
 Copyright (c) 2016 Thomas Vaeth
