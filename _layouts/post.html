@@ -34,12 +34,12 @@ layout: default
         <p>{{ site.profile }}</p>
         {% if site.email or site.social %}
           <ul class="profile__social">
-            {% if site.email %}
-              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
-            {% endif %}
             {% for social in site.social %}
               <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
             {% endfor %}
+            {% if site.email %}
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+            {% endif %}
           </ul>
         {% endif %}
       </div>

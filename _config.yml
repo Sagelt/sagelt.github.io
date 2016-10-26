@@ -6,8 +6,8 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: olde_fortran
-description: Sage LaTorra's Blog
+title: LaTorra.org
+description: 
 url: ""
 twitter_username: olde_fortran
 default_img: 
@@ -17,9 +17,10 @@ name: Sage LaTorra
 profile_img: /images/sage.jpg
 profile: Sage LaTorra is a game designer and senior test engineer at Google. You may know him from Dungeon World.
 social:
-  github: https://github.com/Sagelt
-  twitter: https://twitter.com/olde_fortran
+  feed: /blog/
   google-plus: https://plus.google.com/+SageLaTorra
+  twitter: https://twitter.com/olde_fortran
+  github: https://github.com/Sagelt
 
 # Build settings
 include: ["_categories"]
