@@ -2,8 +2,10 @@
 layout: post
 title: "D&D 5th Edition"
 date: 2014-07-09
-image: {{ site.url }}/assets/images/beethovens_fifth.jpg
-image-sm: {{ site.url }}/assets/images/beethovens_fifth.jpg
+categories:
+  - Games
+image: https://sagelt.github.io/assets/images/beethovens_fifth.jpg
+image-sm: https://sagelt.github.io/assets/images/beethovens_fifth.jpg
 ---
 This was going to be a series of posts on elements of D&D 5th edition, which just released (sort of), but they started seeming too interlinked. Instead I've put them all here. That makes it a bit of a beast, I know, but I think the context is important. To make it a little more manageable, here's a table of contents:
 
