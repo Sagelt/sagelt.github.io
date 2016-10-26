@@ -6,8 +6,8 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: sage
-description: 
+title: olde_fortran
+description: Sage LaTorra's Blog
 url: ""
 twitter_username: olde_fortran
 default_img: 
