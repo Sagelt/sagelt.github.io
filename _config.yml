@@ -15,10 +15,10 @@ default_img:
 # Profile settings
 name: Sage LaTorra
 profile_img: 
-profile: 
+profile: Game designer and Senior Test Engineer at Google
 social:
-  github: sagelt
-  twitter: olde_fortran
+  github: https://github.com/Sagelt
+  twitter: https://twitter.com/olde_fortran
 
 # Build settings
 include: ["_categories"]
