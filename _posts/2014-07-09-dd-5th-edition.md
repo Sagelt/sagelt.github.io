@@ -125,7 +125,7 @@ They're not perfectly written, but they move so far in the right direction that 
 
 There's been a small predictable backlash, but that's to be expected. (And, notably if you've been following other discussion on this, nobody who contributed to the game objected to this section.)
 
-#<a name="lingua"></a>Lingua Franca
+# <a name="lingua"></a>Lingua Franca
 This is where we wrap around to my overall point in this writeup: D&D as lingua franca.
 
 Because of its place in history and the size of the hobby, D&D has always been a reference point and common tongue among tabletop gamers. Until now that's been largely a quirk of circumstance—D&D was there first, D&D is bigger. 5E is the first edition of D&D that is designed to be a lingua franca.
