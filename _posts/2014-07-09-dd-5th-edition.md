@@ -119,6 +119,9 @@ By calling out the multitude of settings it changes the model. Instead of a sett
 # <a name="progress"></a>Progress
 One of the best elements of the text are these two paragraphs:
 
+![D&D 5th Edition On Gender Part 1](/images/dndgender1.png)
+![D&D 5th Edition On Gender Part 2](/images/dndgender2.png)
+
 These statements are wonderful because they embrace the variety of human experience. They make everybody welcome at the table.
 
 They're not perfectly written, but they move so far in the right direction that they're worth applauding. Some people feel that halfway progress is not worth praising, but I'd rather clearly say: this is something I like, this is good, now next time make it great.
