@@ -19,6 +19,7 @@ profile: Sage LaTorra is a game designer and senior test engineer at Google. You
 social:
   github: https://github.com/Sagelt
   twitter: https://twitter.com/olde_fortran
+  google-plus: https://plus.google.com/+SageLaTorra
 
 # Build settings
 include: ["_categories"]
