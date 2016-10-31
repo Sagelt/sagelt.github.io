@@ -57,6 +57,37 @@ body {
   }
 }
 
+.footnotes {
+  font-family: $font-body;
+  font-feature-settings: 'liga' 0;
+  font-size: 100%;
+  line-height: 1.6;
+
+  @media (min-width: $mq-xs) {
+    font-size: 102.5%;
+  }
+
+  @media (min-width: $mq-sm) {
+    font-size: 105%;
+  }
+
+  @media (min-width: $mq-md) {
+    font-size: 107.5%;
+  }
+
+  @media (min-width: $mq-lg) {
+    font-size: 110%;
+  }
+
+  @media (min-width: $mq-xl) {
+    font-size: 115%;
+  }
+
+  @media (min-width: $mq-xxl) {
+    font-size: 125%;
+  }
+}
+
 h1, h2 {
   margin: 0;
 
@@ -108,6 +139,10 @@ ol, ul {
 
 ol {
   list-style-type: upper-roman;
+}
+
+.footnotes ol {
+  list-style-type: decimal;
 }
 
 ul {
