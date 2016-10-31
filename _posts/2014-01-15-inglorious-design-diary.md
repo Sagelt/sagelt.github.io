@@ -3,7 +3,7 @@ layout: post
 title: "Inglorious Design Diary"
 date: 2014-01-15
 categories:
-  - Games
+  - Dungeon World
 image: /images/inglorious.jpeg
 image-sm: /images/inglorious.jpeg
 ---
