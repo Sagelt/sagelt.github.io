@@ -24,13 +24,19 @@ For clarity I'll be using _Civilization VI_ as my point of reference for how eac
 
 ## The Myth of Great Men & The Myth of Heroic Invention
 
+> Alan Turing, attracted to the growing Aztek research complex, drives them towards the invention of the computer furthering their progress to Mars.
+
+
+
 ## The Myth of Progress
 
 ## The Myth of Essentialism
 
 ## The Myth of Enlightenment
 
-Religion in _Civ VI_ is never part of a tradition so much as it is a _sui generis_ creation. There is no slow drift of one tradition from another (at times catalyzed by notable stories of a specific person), instead each religion is born in a specific year entirely of its own. Each religion is built from a distinct set of early beliefs, not as an offshoot of another religion.
+> In Scythia while the barbarian hordes are held back John the Baptist founds Hinduism at Stonehenge.
+
+Religion in _Civ VI_ is never part of a tradition so much as it is a _sui generis_ creation. There is no slow drift of one tradition from another (at times catalyzed by notable stories of a specific person), instead each religion is born in a specific year entirely of its own. Each religion is built from a distinct set of early beliefs, not as an offshoot of another religion. Each religion is a distinct unprecedented moment of enlightenment.
 
 If your game of _Civ VI_ includes Judaism, Christianity, and Islam they will be completely distinct inventions owing nothing to each other.
 
@@ -45,6 +51,8 @@ There's a certain accuracy here—treating religion as a central part of culture
 While religion as an arm of empire is certainly a common historical theme, to make it inescapable is to reduce the private choice of faith in to an act of conquest. If this was the way we viewed the world around us then every "outside" religion is an infiltrator bringing victory to some other entity.
 
 ## The Myth of Victory
+
+> In 1938 CE Norweigan forces take Uruk, becoming the greatest civilization.
 
 This may be both the most essential and the most pernicious myth of _Civ VI_ and the entire series: that among the people of the world across the long arc of history there is a winner and that winner is a nation-state.
 
