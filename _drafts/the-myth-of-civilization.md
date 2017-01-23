@@ -26,11 +26,15 @@ For clarity I'll be using _Civilization VI_ as my point of reference for how eac
 
 > Alan Turing, attracted to the growing Aztek research complex, drives them towards the invention of the computer furthering their progress to Mars.
 
+Civilizations in _Civ VI_ are driven forward by Great People. While not absolutely essential, getting the type of great person that most aligns with the victory you are pursuing is typically a large boost, and other great people are a considerable benefit. Each great person provides a specific benefit, typically usable only a few times. Alan Turing boosts progress towards computers, Genghis Khan improves units around him, and so on.
 
+This is essentially a gameplay system modeling the [Great Man Theory](https://en.wikipedia.org/wiki/Great_Man_theory). The Azteks discovered computers before anyone else because of Alan Turing. The Indian varu moved so swiftly towards Râ-Kedet because they were led by Genghis Khan. 
 
 ## The Myth of Progress
 
 ## The Myth of Essentialism
+
+## The Myth of Barbarians
 
 ## The Myth of Enlightenment
 
