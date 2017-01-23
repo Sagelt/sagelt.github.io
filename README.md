@@ -9,4 +9,4 @@ Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQu
 ## License
 Trophy is licensed under the MIT License.
 
-All posts to this site (everything under _posts) is license under a Creative Commons Attribution 4.0 International License.
+All posts to this site (everything under _posts) is licensed under a Creative Commons Attribution 4.0 International License.
