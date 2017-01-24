@@ -11,7 +11,7 @@ image-sm: /images/tbh.jpg
 
 > This post is part of [12x2017](/category/12x2017): read + play 12 new RPGs in 2017.
 
-Turns out I set my self up for success to get started. _The Black Hack_ is only 20 pages, well laid-out, so it was an embarrassingly quick read for my first challenge.
+Turns out I set my self up for success to get started. _[The Black Hack](http://www.drivethrurpg.com/product/178359/The-Black-Hack?affiliate_id=470893)_ is only 20 pages, well laid-out, so it was an embarrassingly quick read for my first challenge.
 
 I'll admit that all I knew going in was that lots of folks seemed to love _TBH_ so I was a bit surprised at how accurate the name turned out to be: this is literally a hack. It'd be utterly incomprehensible to someone without some existing RPG knowledge.
 
