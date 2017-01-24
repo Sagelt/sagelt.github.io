@@ -1,3 +1,6 @@
 [submodule "_posts"]
 	path = _posts
 	url = https://github.com/Sagelt/posts.git
+[submodule "images"]
+	path = images
+	url = https://github.com/Sagelt/images.git
