@@ -15,10 +15,9 @@ default_img:
 # Profile settings
 name: Sage LaTorra
 profile_img: /images/sage.jpg
-profile: Sage LaTorra is a game designer and senior test engineer at Google. You may know him from Dungeon World.
+profile: Sage LaTorra is a game designer and engineering manager at Google. You may know him from Dungeon World.
 social:
   quote-right: /blog/
-  google-plus: https://plus.google.com/+SageLaTorra
   twitter: https://twitter.com/olde_fortran
   podcast: http://www.anotherquestion.com/
   github: https://github.com/Sagelt
